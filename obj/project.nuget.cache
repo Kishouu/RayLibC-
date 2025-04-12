@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e3XxkfgLiUs=",
+  "success": true,
+  "projectFilePath": "/Users/sviatoslav/RiderProjects/proj/ConsoleApp1/ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "/Users/sviatoslav/.nuget/packages/raylib-cs/7.0.1/raylib-cs.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
