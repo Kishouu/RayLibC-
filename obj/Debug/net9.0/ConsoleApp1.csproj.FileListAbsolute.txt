@@ -20,3 +20,4 @@
 /Users/sviatoslav/RiderProjects/proj/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.pdb
 /Users/sviatoslav/RiderProjects/proj/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.genruntimeconfig.cache
 /Users/sviatoslav/RiderProjects/proj/ConsoleApp1/obj/Debug/net9.0/ref/ConsoleApp1.dll
+/Users/sviatoslav/RiderProjects/proj/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.sourcelink.json
